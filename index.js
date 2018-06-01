@@ -1,2 +1,3 @@
-var text1="Hello World!";
-var text2= text1.toUpperCase;
+function shout(string) {
+  return string.toUpperCase()
+}
