@@ -1,1 +1,1 @@
-var text1=
+var text1="Hello World!"
