@@ -17,3 +17,7 @@ console.log(string.toLowerCase());
 function sayHiToGrandma (string) {
   return()
 }
+
+function shout(string) {
+  return string.toUpperCase()
+}
